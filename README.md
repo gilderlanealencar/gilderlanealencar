@@ -18,7 +18,7 @@
  
  <div align="center">
   
-  ![Snake animation](https://github.com/gilderlanealenca/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gilderlanealencar/github-contribution-grid-snake.svg)
   
 </div>
    
