@@ -17,6 +17,6 @@
 </div>
  
 
-  ![Snake animation](https://github.com/gilderlalencar/gilderlanealenc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gilderlalencar/gilderlanealencar/blob/output/github-contribution-grid-snake.svg)
  
   
