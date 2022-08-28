@@ -1,4 +1,5 @@
-### Olá! Eu Sou a Gilderlane Alencar
+### Olá! Eu Sou a Gilderlane Alencar 👋	
+🧠	Estudande de Analise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://beacons.ai/gilderlanealencar">
