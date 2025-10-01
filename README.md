@@ -18,4 +18,3 @@
 
 </div>
 
-![snake gif](https://github.com/gilderlanealencar/gilderlanealencar/blob/output/github-contribution-grid-snake.svg)
